@@ -1,0 +1,22 @@
+current directory: /opt/project/vendor/bundle/ruby/3.2.0/gems/stackprof-0.2.25/ext/stackprof
+/home/ahmed/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+checking for rb_postponed_job_register_one()... yes
+checking for rb_profile_frames()... yes
+checking for rb_tracepoint_new()... yes
+checking for RUBY_INTERNAL_EVENT_NEWOBJ... yes
+creating Makefile
+
+current directory: /opt/project/vendor/bundle/ruby/3.2.0/gems/stackprof-0.2.25/ext/stackprof
+make DESTDIR\= sitearchdir\=./.gem.20231125-36457-whslsl sitelibdir\=./.gem.20231125-36457-whslsl clean
+
+current directory: /opt/project/vendor/bundle/ruby/3.2.0/gems/stackprof-0.2.25/ext/stackprof
+make DESTDIR\= sitearchdir\=./.gem.20231125-36457-whslsl sitelibdir\=./.gem.20231125-36457-whslsl
+compiling stackprof.c
+linking shared-object stackprof/stackprof.so
+
+current directory: /opt/project/vendor/bundle/ruby/3.2.0/gems/stackprof-0.2.25/ext/stackprof
+make DESTDIR\= sitearchdir\=./.gem.20231125-36457-whslsl sitelibdir\=./.gem.20231125-36457-whslsl install
+/usr/bin/install -m 0755 stackprof.so ./.gem.20231125-36457-whslsl/stackprof
+
+current directory: /opt/project/vendor/bundle/ruby/3.2.0/gems/stackprof-0.2.25/ext/stackprof
+make DESTDIR\= sitearchdir\=./.gem.20231125-36457-whslsl sitelibdir\=./.gem.20231125-36457-whslsl clean
